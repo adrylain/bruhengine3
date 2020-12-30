@@ -1,0 +1,17 @@
+[package]
+name = "foothree"
+version = "0.1.0"
+authors = ["BuildTools <unconfigured@null.spigotmc.org>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+three = "0.4.0"
+nphysics3d = "0.16.1"
+nalgebra = "0.21.1"
+ncollide3d = "0.23.2"
+
+
+
+
